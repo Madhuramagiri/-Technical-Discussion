@@ -10,4 +10,4 @@ This is demo for sharing ideas around communication
 
 ### Gist
 
-This is [my code] (https://gist.github.com/Madhuramagiri/d756b49f0bd6889694d7c8f1ddaae1e3)
+This is example of [my code](https://gist.github.com/Madhuramagiri/d756b49f0bd6889694d7c8f1ddaae1e3)
